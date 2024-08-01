@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class SceneSwitch : MonoBehaviour
 {
     public int butterfliesCount = 0; // 觸碰籤詩的數量
-    public ButterflyGenerator butterflyGenerator;
+    public ButterflyGenerator butterflyGenerator; 
 
 
      void Start()
