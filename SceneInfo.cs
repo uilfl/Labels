@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class SceneInfo : MonoBehaviour
 {
-   public string SceneName = null;
+   public string SceneName = null;// 要切換的場景名稱
 }
